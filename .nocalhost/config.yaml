@@ -1,0 +1,6 @@
+configProperties:
+  version: v2
+application:
+  helmValues:
+    - key: spring-vue-cn-06-18t11-19-11-backend.nocalhost.enabled
+      value: true
